@@ -1,0 +1,15 @@
+.openerp .oe_web_module_example {
+    color: white;
+    background-color: black;
+    height: 100%;
+    font-size: 400%;
+}
+
+.openerp .oe_web_module_example h4 {
+    margin: 0;
+    font-size: 200%;
+}
+.openerp .oe_web_module_example.oe_web_module_example_started .oe_web_module_example_start button,
+.openerp .oe_web_module_example.oe_web_module_example_stopped .oe_web_module_example_stop button {
+    display: none
+}
